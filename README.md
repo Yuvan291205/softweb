@@ -741,16 +741,12 @@ products.html:
 </html>
 
 ## OUTPUT:
-![Screenshot (14)](https://github.com/Yuvan291205/softweb/assets/138849170/8ee3b61e-69a4-4da6-9a21-028aac474318)
-![Screenshot (15)](https://github.com/Yuvan291205/softweb/assets/138849170/ac7fdcba-4a0e-4b1c-9b7c-706693955146)
-![Screenshot (16)](https://github.com/Yuvan291205/softweb/assets/138849170/d62524e3-4511-4d0a-9e03-2b156002f1a2)
-![Screenshot (17)](https://github.com/Yuvan291205/softweb/assets/138849170/1ab78e10-33fc-4fb9-867b-626e07541792)
-![Screenshot (18)](https://github.com/Yuvan291205/softweb/assets/138849170/835f1c76-4090-4d78-ad4d-03418910b3dd)
-![Screenshot (19)](https://github.com/Yuvan291205/softweb/assets/138849170/a1bbcf8e-59e9-4373-ac7d-44bfd138c840)
-![Screenshot (34)](https://github.com/Yuvan291205/softweb/assets/138849170/8473a268-0ae4-441a-aa3d-245f8d1af178)
-![Screenshot (35)](https://github.com/Yuvan291205/softweb/assets/138849170/ed0326c9-f328-49e6-8cbb-6918a425115a)
-![Screenshot (36)](https://github.com/Yuvan291205/softweb/assets/138849170/1aba472e-d550-4f0d-8244-dbdfbc326e64)
-![Screenshot (37)](https://github.com/Yuvan291205/softweb/assets/138849170/83655bf4-a8b6-4f88-94ec-e1318ae4c4e3)
-![Screenshot (38)](https://github.com/Yuvan291205/softweb/assets/138849170/b55e6904-b4a5-413c-bfba-22fc78fe791d)
+![Screenshot (14)](https://github.com/Yuvan291205/softweb/assets/138849170/44ebd1d8-faa7-41bb-8840-d7b884390542)
+![Screenshot (16)](https://github.com/Yuvan291205/softweb/assets/138849170/fcd63315-b68b-485c-8387-70fcb420287d)
+![Screenshot (19)](https://github.com/Yuvan291205/softweb/assets/138849170/0f278d14-b65c-410c-8154-366d33abdb0b)
+![Screenshot (37)](https://github.com/Yuvan291205/softweb/assets/138849170/4edca64b-327c-4e9d-a778-52d07f358606)
+![Screenshot (34)](https://github.com/Yuvan291205/softweb/assets/138849170/a2ce3810-4cc2-4520-92b1-a0dcbc912237)
+![Screenshot (38)](https://github.com/Yuvan291205/softweb/assets/138849170/146e1be6-2be4-434e-b854-006562075732)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
