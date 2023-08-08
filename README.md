@@ -739,6 +739,7 @@ products.html:
         </div>
     </body>
 </html>
+```
 
 ## OUTPUT:
 ![Screenshot (14)](https://github.com/Yuvan291205/softweb/assets/138849170/44ebd1d8-faa7-41bb-8840-d7b884390542)
